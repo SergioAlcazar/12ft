@@ -15,7 +15,7 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/SergioAlcazar/12ft
 ```
-### Step 2: upload
+### Step 2: Upload
 1. Open Google Chrome.
 2. Navigate to chrome://extensions/.
 3. Enable "Developer mode" by toggling the switch in the top-right corner.
